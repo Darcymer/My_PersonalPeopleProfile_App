@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My PersonalPeopleProfile App</string>
+    <string name="Main1ofIdea">main1</string>
+    <string name="sidechar1">sidechar1</string>
+    <string name="sidechar2">sidechar2</string>
+    <string name="sidechar3">sidechar3</string>
+    <string name="sidechar4">sidechar4</string>
+    <string name="sidechar8">sidechar8</string>
+    <string name="sidechar7">sidechar7</string>
+    <string name="sidechar6">sidechar6</string>
+    <string name="sidechar5">sidechar5</string>
+    <string name="hippity_hopity_this_test_text_is_my_property">Hippity Hopity, this test text is my property.</string>
+    <string name="main_character_ideas_for_the_future">Main Character Ideas for the Future</string>
+    <string name="mainprofpic">Mainprofpic</string>
 </resources>

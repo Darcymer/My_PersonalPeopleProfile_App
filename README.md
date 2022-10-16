@@ -7,9 +7,9 @@ The mobile app that I created is a people profiler (though for demo purposes, i 
 
 The purpose of this app is to demonstrate how I learn how user interaction work in the mobile space and how changes can occur using java/kotlin coding languages.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+Youtube Demo:
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/tc_WVgIrWMU
 
 # Development Environment
 

@@ -4,14 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/sbg4p"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/Bioware"
         android:layout_width="333dp"
         android:layout_height="89dp"
-        android:text="@string/hippity_hopity_this_test_text_is_my_property"
-        android:textSize="14sp"
+        android:text="@string/Change_txt"
+        android:textColor="#D4DEDF"
+        android:textSize="10sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -35,8 +37,9 @@
         android:id="@+id/titleofTitle"
         android:layout_width="234dp"
         android:layout_height="63dp"
-        android:text="@string/main_character_ideas_for_the_future"
-        android:textSize="24sp"
+        android:text="@string/title_txt"
+        android:textColor="#EBF0F3"
+        android:textSize="50sp"
         app:layout_constraintBottom_toTopOf="@+id/Bioware"
         app:layout_constraintEnd_toStartOf="@+id/imageView2"
         app:layout_constraintStart_toStartOf="parent"
@@ -54,7 +57,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Bioware"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/layle" />
+        app:srcCompat="@drawable/layle"
+        tools:ignore="ImageContrastCheck,ImageContrastCheck" />
 
     <ImageButton
         android:id="@+id/imageButton15"
@@ -111,7 +115,8 @@
         app:layout_constraintStart_toEndOf="@+id/imageButton17"
         app:layout_constraintTop_toBottomOf="@+id/imageButton15"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/rpanda" />
+        app:srcCompat="@drawable/rpanda"
+        tools:ignore="ImageContrastCheck" />
 
     <ImageButton
         android:id="@+id/imageButton19"

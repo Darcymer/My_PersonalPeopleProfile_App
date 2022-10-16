@@ -15,13 +15,37 @@ The purpose of this app is to demonstrate how I learn how user interaction work 
 
 ANDROID STUDIOS and EMULATIONS THROUGH ANDRIOD STUDIOS
 
-JAVA AND KOTLIN
+JAVA 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+-Installations tutorials i used
+* [Andrew Ruffolo on tutorial installing HAXM](https://www.youtube.com/watch?v=qcrVqwa7npI&ab_channel=AndrewRuffolo)
+* [Installation Instructions on Windows](https://github.com/intel/haxm/wiki/Installation-Instructions-on-Windows#Downloading_Intel_HAXM)
+* [Stackoverflow on how to add android studio projects to github](https://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github#:~:text=and%20test%20again.-,Go%20to%20File%20%2D%3E%20Settings%20%2D%3E%20Version%20Control%20%2D%3E,Description%20and%20click%20Share%20button.)
+
+-Learning Tutorials I Used
+* [ProgrammingKnowledge In Learning Code](https://www.youtube.com/c/ProgrammingKnowledge/playlists)
+* [Unit 1: Kotlin basics](https://developer.android.com/courses/android-basics-kotlin/unit-1)
+* [Caleb Curry 4 hour Android Studio Tutorial](https://www.youtube.com/watch?v=tZvjSl9dswg&list=PL_c9BZzLwBRJLm0QETVj_XcN4jRsV4LkR)
+* [Converting Java to Kotlin tutorial](https://developer.android.com/kotlin/add-kotlin#:~:text=To%20convert%20Java%20code%20to,Java%20code%20into%20that%20file.)
+
+-Error Handeling help
+* [tutorialKart on Android Text](https://www.tutorialkart.com/kotlin-android/android-textview/)
+* [E micro Tech on fixing no speakable text present](https://www.youtube.com/watch?v=J0eW2gY4T34&ab_channel=EMicroTech)
+
+-Art Credits
+* [Fantasy Space Wallpaper](https://wallpaperaccess.com/fantasy-space)
+* [Sazh Katzroy Final Fantasy Dissidia Opera Omnia by Square Enix](https://dissidiadb.com/static/img/sazh.765b303.png)
+* [-Devon Allen --- Junior Girl --- Girl Museum Inc.](https://www.girlmuseum.org/wp-content/uploads/2016/10/Valkyries.jpg)
+* [Soace Fart from Rick and Morty by Adult Swim](https://pm1.narvii.com/6241/9f19cf98057f59cce6509312e8ec25623850cebc_hq.jpg)
+* [Queen Xahn from Kid Cosmic by Netflix](https://i.pinimg.com/474x/ae/f1/44/aef144af8dbc9a1ea3ecffd941db8d66.jpg)
+* [Utica Zoo](https://www.uticazoo.org/wp-content/uploads/2021/10/Ming-Yue-exploring-1024x576.jpg)
+* [Spinner from My Heo Academia by Kōhei Horikoshi](https://i.pinimg.com/474x/b5/14/1c/b5141c6c48a7169bcee1d812885578e6.jpg)
+* [Image from Playstation store, rendure used for FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition by Square Enix](https://store.playstation.com/en-us/product/UP0082-CUSA16885_00-CHA0000000000008)
+* [Galio from Leauge of Legends by Riot Games](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg)
+* [Rubi Malone from wet by Bethesda Games, render by HazardousArt on Deviantart](https://www.deviantart.com/hazardousarts/art/Rubi-Malone-Low-Poly-Posed-WIP-254152515)
 
 # Future Work
 

@@ -13,7 +13,7 @@ https://youtu.be/tc_WVgIrWMU
 
 # Development Environment
 
-ANDROID STUDIOS and EMULATIONS THROUGH ANDRIOD STUDIOS
+Android Studio and Emulations through Android Studios
 
 JAVA 
 
